@@ -316,3 +316,4 @@
 /Users/westonwatson/Documents/Winter 2025/413/Mission10_Watson/Backend/obj/Debug/net8.0/BowlingAPI.pdb
 /Users/westonwatson/Documents/Winter 2025/413/Mission10_Watson/Backend/obj/Debug/net8.0/BowlingAPI.genruntimeconfig.cache
 /Users/westonwatson/Documents/Winter 2025/413/Mission10_Watson/Backend/obj/Debug/net8.0/ref/BowlingAPI.dll
+/Users/westonwatson/Documents/Winter 2025/413/Mission10_Watson/backend/obj/Debug/net8.0/BowlingAPI.sourcelink.json
