@@ -1,3 +1,5 @@
+// Weston Watson, Section 3
+
 using System.ComponentModel.DataAnnotations;
 
 namespace BowlingAPI.Models

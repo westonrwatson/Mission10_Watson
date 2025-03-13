@@ -3,7 +3,7 @@ import axios from "axios";
 import Header from "./components/Header";
 import BowlerTable from "./components/BowlerTable";
 
-const API_URL = "http://localhost:5031/api/bowlers"; // Make sure this matches your backend API URL
+const API_URL = "http://localhost:5031/api/bowlers"; 
 
 const App = () => {
   const [bowlers, setBowlers] = useState([]);
@@ -12,7 +12,7 @@ const App = () => {
     axios
       .get(API_URL)
       .then((response) => {
-        console.log("API Response:", response.data); // Debugging line
+        console.log("API Response:", response.data);
         setBowlers(response.data);
       })
       .catch((error) => {
@@ -21,6 +21,7 @@ const App = () => {
   }, []);
   
 
+  // display header and table
   return (
     <div>
       <Header />

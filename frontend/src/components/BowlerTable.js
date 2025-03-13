@@ -1,3 +1,5 @@
+// Table component
+
 import React from "react";
 
 const BowlerTable = ({ bowlers }) => {

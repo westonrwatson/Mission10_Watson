@@ -1,3 +1,5 @@
+// Weston Watson, Section 3
+
 using Microsoft.EntityFrameworkCore;
 using BowlingAPI.Data;
 
